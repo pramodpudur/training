@@ -1,0 +1,2 @@
+# training
+learn to git
